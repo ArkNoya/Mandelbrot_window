@@ -1,0 +1,1 @@
+g++ .\mandelbrot.cpp .\glfw3.dll -lopengl32 -fopenmp -o mandelbort.exe
