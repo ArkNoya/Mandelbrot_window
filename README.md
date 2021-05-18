@@ -1,5 +1,4 @@
 # Mandelbrot_window
-
 供B站站友要求开源的Mandelbrot分型程序
 
 使用c++&opengl编写
@@ -30,3 +29,5 @@ opengl库管理使用了glfw
 字母键 H 转到一个可以一直放大的观察点
 
 # 玩得愉快
+记得给我的B站视频三连（三连最新的就好）
+https://space.bilibili.com/28627837
